@@ -1,10 +1,10 @@
-package com.example.ejbtest1;
+package com.example.newapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EjbTest1ApplicationTests {
+class NewApiApplicationTests {
 
     @Test
     void contextLoads() {
